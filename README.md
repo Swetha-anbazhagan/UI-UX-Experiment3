@@ -20,7 +20,8 @@ A heuristic evaluation was conducted on two competing mobile applications in the
 
 While Zomato presented a visually appealing interface with rich media content, it sometimes overwhelmed users with excessive promotional banners, leading to cognitive overload. Swiggy, on the other hand, maintained a cleaner interface with easier-to-use filters and quicker access to previous orders. In terms of UX flow, Swiggy's checkout process was more intuitive, whereas Zomato provided more detailed restaurant information, aiding decision-making. From a usability standpoint, Swiggy performed better on the heuristic of flexibility and efficiency of use, especially for repeat users.
 
-![image](https://github.com/user-attachments/assets/a7d97253-eb7e-48d6-bc80-5eaf52e71e7f)
+![image](https://github.com/user-attachments/assets/50be4cab-b945-4857-87dd-18be43665ada)
+
 
 
 **2)Development and Incorporation of Required Changes**
@@ -30,6 +31,9 @@ Based on the heuristic evaluation, several UX design improvements were proposed.
 **3)Evaluation of Design Changes Through A/B Testing**
 
 To measure the impact of the proposed changes, A/B testing was conducted over a two-week period. Group A interacted with the original interface (control group), while Group B used the modified version (test group). Metrics such as average session duration, click-through rate (CTR) on restaurant listings, conversion rate (order completion), and bounce rate were analyzed. In Zomato's case, Group B showed a 15% reduction in bounce rate and a 12% increase in conversion rates, indicating that reducing visual noise improved user focus and engagement. For Swiggy, the test group experienced a 20% increase in customer support interactions and an 8% faster checkout time, affirming the improved usability of navigation and task flow. These findings validate that thoughtful heuristic-based design changes can significantly enhance the user experience and influence user behavior positively.
+
+[LAB-3 (1).pdf](https://github.com/user-attachments/files/20540424/LAB-3.1.pdf)
+
 
 ## Result:
 To apply Heuristic Evaluation of an Existing Website or App is completed
